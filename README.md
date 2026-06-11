@@ -17,3 +17,7 @@ C]The exercise 3 file contains:
 
 D]Matlibs game file contains:
 1.)A fill in the blanks in the story with various random words like nouns, adjectives, verbs etc
+
+E]Operators and mathfunctions
+
+F]Circumference of a circle
